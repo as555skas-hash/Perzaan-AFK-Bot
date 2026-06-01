@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "PTR Bot",
     "password": "",
     "type": "offline"
   },
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "Subscribe to PTR INSAN!",
         "I like to play Minecraft!"
       ]
     },
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.gg/eRs73NFhYZ",
     "events": {
       "connect": true,
       "disconnect": true,
